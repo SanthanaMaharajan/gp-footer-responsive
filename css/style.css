@@ -55,6 +55,13 @@ footer{
 .footer-cnt2 i, .footer-cnt3 i{
 	color:#ffc451;
 }
+.footer-cnt2 a, .footer-cnt3 a{
+	text-decoration:none;
+	color:#fff;
+}
+.footer-cnt2 a:hover, .footer-cnt3 a:hover{
+	color:#ffc451;
+}
 .footer-cnt4 input{
 	border:none;
 }
